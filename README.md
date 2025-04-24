@@ -18,7 +18,7 @@ I'm a passionate software developer with a keen interest in Frontend development
 
 ## 📫 How to reach me
 
-- LinkedIn: [Himanshu Sah]([https://www.linkedin.com/in/himanshu-lal-sah11/])
+- LinkedIn: [Himanshu Sah](https://www.linkedin.com/in/himanshu-lal-sah11/)
 - Twitter: [@himanshusah_dev](https://x.com/harshitsah0011)
 - Email: himanshusah011@gmail.com
 
